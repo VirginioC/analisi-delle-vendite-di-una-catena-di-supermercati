@@ -14,7 +14,7 @@ Il dataset a dispozione `superstore.csv` è contenuto nel repository ed è costi
 `Row ID`, `Order ID`, `Order Date`, `Dispatch Date`, `Delivery Mode`, `Customer ID`	`Customer Name`, `Segment`, `City`, `State/Province`, `Country/Region`, `Region`, `Product ID`, `Category`, `Sub-Category`, `Product Name`, `Sales`, `Quantity`, `Discount` e `Profit`.
 
 ## Dashboard Tableau per il monitoraggio delle attività
-Viene creata una **dashboard interattiva** che permette al business di monitorare le seguenti metriche chiave tramite grafici:
+Viene creata una **Dashboard Tableau interattiva** che permette al business di monitorare le seguenti metriche chiave tramite grafici:
 
 - **Andamento delle vendite nel tempo**
 - **Profitto per Stato**
@@ -24,6 +24,11 @@ Viene creata una **dashboard interattiva** che permette al business di monitorar
 I grafici possono essere filtrati per `Delivery Mode`, `Category`, `Country`, `Year` e `Month`.
 
 ## Tableau Story per la strategia di allocazione del budget marketing
+Superstore ha a disposizione un budget marketing significativo per promuovere i prodotti ad alto potenziale. Il business richiede un’analisi che supporti la decisione di allocazione del budget e a tal proposito viene costruita una **Tablueau Story** costituita da 6 story point contenenti delle dashboard:
+
+1. **Panoramica dell'attuale performance di Superstore in Europa**:
+2. **Analisi dei profitti e delle quantità di prodotti venduti per categoria e sottocategoria**:
+3. 
 
 
 
