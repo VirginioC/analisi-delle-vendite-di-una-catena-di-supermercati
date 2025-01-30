@@ -7,7 +7,7 @@ L'azienda fittizia Superstore ha deciso di trasformare il proprio processo decis
 
 Il compito affidato al Data Scientist è creare una soluzione interattiva e dinamica per monitorare le performance aziendali e guidare le scelte strategiche, sostituendo metodi di analisi obsoleti come fogli di calcolo e presentazioni statiche.
 
-Grazie a un set di dashboard dinamiche e una Tableau Story ben strutturata, Superstore sarà in grado di monitorare le sue operazioni in Europa e prendere decisioni di marketing più efficaci. Questa soluzione permetterà al business di migliorare l'efficienza, ridurre i costi e aumentare i profitti, assicurando il successo continuo in un mercato altamente competitivo.
+Questa soluzione permetterà al business di migliorare l'efficienza, ridurre i costi e aumentare i profitti, assicurando il successo continuo in un mercato altamente competitivo.
 
 ## Dataset
 Il dataset a dispozione `superstore.csv` è contenuto nel repository ed è costituito da 10000 samples con le seguenti variabili: `Row ID`, `Order ID`, `Order Date`, `Dispatch Date`, `Delivery Mode`, `Customer ID`	`Customer Name`, `Segment`, `City`, `State/Province`, `Country/Region`, `Region`, `Product ID`, `Category`, `Sub-Category`, `Product Name`, `Sales`, `Quantity`, `Discount` e `Profit`.
