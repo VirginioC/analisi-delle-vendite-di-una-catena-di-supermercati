@@ -14,3 +14,8 @@ Il dataset a dispozione `superstore.csv` è contenuto nel repository ed è costi
 
 `Row ID`, `Order ID`, `Order Date`, `Dispatch Date`, `Delivery Mode`, `Customer ID`	`Customer Name`, `Segment`, `City`, `State/Province`, `Country/Region`, `Region`, `Product ID`, `Category`, `Sub-Category`, `Product Name`, `Sales`, `Quantity`, `Discount` e `Profit`.
 
+## Dashboard Tableau per il monitoraggio delle attività
+Viene creata una **dashboard interattiva** che permetta al business di monitorare le seguenti metriche chiave:
+- **Andamento delle vendite nel tempo**
+- **Profitto per Country**
+- **Quantità di prodotti spediti per classe di spedizione**
