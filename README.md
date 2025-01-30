@@ -1,1 +1,1 @@
-# analisi-delle-vendite-di-una-catena-di-supermercati
+# Analisi delle vendite di una catena di supermercati
