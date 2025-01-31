@@ -9,7 +9,7 @@ Il compito affidato al Data Scientist è creare una soluzione interattiva e dina
 Questa soluzione permetterà al business di migliorare l'efficienza, ridurre i costi e aumentare i profitti, assicurando il successo continuo in un mercato altamente competitivo.
 
 ## Dataset
-Il dataset a disposizione `superstore.csv` è contenuto nel repository ed è costituito da 10000 samples con le seguenti variabili: 
+Il dataset a disposizione `superstore.xlsx` è contenuto nel repository ed è costituito da 10000 samples con le seguenti variabili: 
 
 `Row ID`, `Order ID`, `Order Date`, `Dispatch Date`, `Delivery Mode`, `Customer ID`	`Customer Name`, `Segment`, `City`, `State/Province`, `Country/Region`, `Region`, `Product ID`, `Category`, `Sub-Category`, `Product Name`, `Sales`, `Quantity`, `Discount` e `Profit`.
 
@@ -35,7 +35,7 @@ Superstore ha a disposizione un budget marketing significativo per promuovere i 
 
 ## Come visualizzare la Dashboard e la Story
 1. Visualizza la Tableau story con tutte le dashboard e i singoli charts che le compongono su **Tableau Public** cliccando sul link https://public.tableau.com/app/profile/virginio.cocciaglia/viz/SuperstoreSalesOverviewandBudgetAllocationStrategies/Story.
-2. In alternativa scarica o clona il repository ed apri il file `Superstore Sales Overview and Budget Allocation Strategies.twbx` su **Tableau Desktop**. Questo file contiene già il dataset `superstore.csv`, quindi non sono necessarie configurazioni aggiuntive.
+2. In alternativa scarica o clona il repository ed apri il file `Superstore Sales Overview and Budget Allocation Strategies.twbx` su **Tableau Desktop**. Questo file contiene già il dataset `superstore.xlsx`, quindi non sono necessarie configurazioni aggiuntive.
 
 
 
