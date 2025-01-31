@@ -35,7 +35,7 @@ Superstore ha a disposizione un budget marketing significativo per promuovere i 
 
 ## Come visualizzare la Dashboard e la Story
 1. Visualizza la Tableau story con tutte le dashboard e i singoli charts che le compongono su **Tableau Public** cliccando sul link https://public.tableau.com/app/profile/virginio.cocciaglia/viz/SuperstoreSalesOverviewandBudgetAllocationStrategies/Story.
-2. In alternativa scarica o clona il repository ed apri il file Superstore `Sales Overview and Budget Allocation Strategies.twbx` su **Tableau Desktop**. Questo file contiene già il dataset `superstore.csv`, quindi non sono necessarie configurazioni aggiuntive.
+2. In alternativa scarica o clona il repository ed apri il file `Superstore Sales Overview and Budget Allocation Strategies.twbx` su **Tableau Desktop**. Questo file contiene già il dataset `superstore.csv`, quindi non sono necessarie configurazioni aggiuntive.
 
 
 
