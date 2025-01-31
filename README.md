@@ -26,9 +26,16 @@ I grafici possono essere filtrati per `Delivery Mode`, `Category`, `Country`, `Y
 ## Tableau Story per la strategia di allocazione del budget marketing
 Superstore ha a disposizione un budget marketing significativo per promuovere i prodotti ad alto potenziale. Il business richiede un’analisi che supporti la decisione di allocazione del budget e a tal proposito viene costruita una **Tablueau Story** costituita da 6 story point contenenti delle dashboard:
 
-1. **Panoramica dell'attuale performance di Superstore in Europa**:
-2. **Analisi dei profitti e delle quantità di prodotti venduti per categoria e sottocategoria**:
-3. 
+1. **Panoramica dell'attuale performance di Superstore in Europa**: contiene la dashboard di monitoraggio precedentemente creata.
+2. **Analisi dei profitti e delle quantità di prodotti venduti per categoria e sottocategoria**: è inserito nella dashboard anche il profitto per stato e i grafici possono essere filtrati per `Category`, `Sub-Category` e `Country` in modo da esplorare le variazioni di profitto e quantità in dettaglio.
+3. **Prodotti da rimuovere**: vengono individuate le sottocategorie di prodotti che portano a delle perdite andando poi ad individuiare singolarmente i prodotti da rimuovere.
+4. **Prodotti a cui assegnare più budget**: vengono individuate le sottocategorie di prodotti che hanno un alto margine di profitto confrontando i profitti e le quantità vendute.
+5. **Prodotti a cui assegnare meno budget**: vengono individuate le sottocategorie di prodotti che hanno un basso margine di profitto confrontando i profitti e le quantità vendute.
+6. **Conclusioni**: in conclusione vengono sintetizzati in un'unica dashboard tutti i risultati a cui si è giunti.
+
+## Come visualizzare la Dashboard e la Story
+1. Visualizza la Tableau story con tutte le dashboard e i singoli charts che le compongono su **Tableau Public**.
+2. In alternativa scarica o clona il repository ed apri il file `Superstore Sales Overview and Budget Allocation Strategies.twb` su **Tableau Desktop**. Anche il dataset di riferimento `superstore.csv` è presente nel repository.
 
 
 
