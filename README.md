@@ -24,7 +24,7 @@ Viene creata una **Dashboard Tableau interattiva** che permette al business di m
 I grafici possono essere filtrati per `Delivery Mode`, `Category`, `Country`, `Year` e `Month`.
 
 ## Tableau Story per la strategia di allocazione del budget marketing
-Superstore ha a disposizione un budget marketing significativo per promuovere i prodotti ad alto potenziale. Il business richiede un’analisi che supporti la decisione di allocazione del budget e a tal proposito viene costruita una **Tabeau Story** costituita da 6 story point contenenti delle dashboard:
+Superstore ha a disposizione un budget marketing significativo per promuovere i prodotti ad alto potenziale. Il business richiede un’analisi che supporti la decisione di allocazione del budget e a tal proposito viene costruita una **Tableau Story** costituita da 6 story point contenenti delle dashboard:
 
 1. **Panoramica dell'attuale performance di Superstore in Europa**: contiene la dashboard di monitoraggio precedentemente creata.
 2. **Analisi dei profitti e delle quantità di prodotti venduti per categoria e sottocategoria**: è inserito nella dashboard anche il profitto per stato e i grafici possono essere filtrati per `Category`, `Sub-Category` e `Country` in modo da esplorare le variazioni di profitto e quantità in dettaglio.
